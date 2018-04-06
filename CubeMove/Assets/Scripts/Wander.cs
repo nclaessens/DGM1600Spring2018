@@ -6,6 +6,7 @@ public class Wander : MonoBehaviour {
 	public float moveSpeed;
 	public Transform target;
 
+	
 	// public int damage;
 
 	// public GameObject pcHealth;

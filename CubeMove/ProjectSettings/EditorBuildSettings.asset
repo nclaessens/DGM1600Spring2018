@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 907d4034f337ec3479c1f7b70f37004d
+  - enabled: 1
+    path: Assets/Scenes/Test world awesometree.unity
+    guid: 36bb3a5d14b206b4aa5f756b61bbc6a2
