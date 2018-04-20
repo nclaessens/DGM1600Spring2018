@@ -22,7 +22,7 @@ public class ChickenAI : MonoBehaviour {
 			transform.Rotate(0,180,0);
 			transform.Translate(Vector3.forward*moveSpeed*Time.deltaTime);
 		}	
-		else{
+		if (other.gameObject.name == "ground"){
 			Wandering();
 		}
 	}
